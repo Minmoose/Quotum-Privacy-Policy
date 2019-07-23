@@ -79,7 +79,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
                     
     
         Microsoft Visual Studio App Center
-        Visual Studio App Center brings together multiple services commonly used by mobile developers into an integrated cloud solution. You can read the Privacy Policy for Microsoft Visual Studio App Center here: <a href="https://privacy.microsoft.com/privacystatement">https://privacy.microsoft.com/privacystatement</a>
+        Visual Studio App Center brings together multiple services commonly used by mobile developers into an integrated cloud solution. You can read the Privacy Policy for Microsoft Visual Studio App Center here: https://privacy.microsoft.com/privacystatement
        
         
 Links To Other Sites
